@@ -12,6 +12,7 @@ A Repository containing all the leetcode questions i had solved so far.
 | [0035-search-insert-position](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A Repository containing all the leetcode questions i had solved so far.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
