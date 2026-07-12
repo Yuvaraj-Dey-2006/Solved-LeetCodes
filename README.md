@@ -14,6 +14,7 @@ A Repository containing all the leetcode questions i had solved so far.
 | [0088-merge-sorted-array](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A Repository containing all the leetcode questions i had solved so far.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +42,16 @@ A Repository containing all the leetcode questions i had solved so far.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yuvaraj-Dey-2006/Solved-LeetCodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
